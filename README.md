@@ -1,4 +1,4 @@
-# Linear Regression with Gradient Descent and Brute Force Search
+#  Gradient Descent 
 
 ## Overview
 
