@@ -2,10 +2,10 @@
 
 ## Overview
 
-This project estimates the best-fit slope for a dataset using two approaches:
+### This project estimates the best-fit slope for a dataset using two approaches:
 
-- **Brute-Force Search** – Iterates over a range of slope values to find the one that minimizes the absolute error.
-- **Gradient Descent** – Optimizes the slope iteratively to minimize the Mean Squared Error (MSE) efficiently.
+- **Brute-Force Search** – Iterates over a range of slope values to find the one that minimizes the absolute error.  
+- **Gradient Descent** – Optimizes the slope iteratively to minimize the **Mean Squared Error (MSE)** efficiently.  
 
 The project includes **data visualization, loss tracking, and a comparison** between the two methods.
 
@@ -13,11 +13,15 @@ The project includes **data visualization, loss tracking, and a comparison** bet
 
 ## Features
 
-✅ Generates synthetic linear data with noise.  
-✅ Implements **brute-force search** for the best slope.  
-✅ Uses **gradient descent** for efficient slope optimization.  
-✅ Visualizes results with plots.  
-✅ Modular **object-oriented** implementation.  
+✅ **Generates synthetic linear data with noise**  
+✅ Implements a **brute-force search** for the best slope  
+✅ Uses **gradient descent** for efficient slope optimization  
+✅ **Visualizes** results, including:  
+   - The generated dataset  
+   - Error vs. slope graph (**Brute-Force Search**)  
+   - Loss reduction over iterations (**Gradient Descent**)  
+   - Best-fit line comparisons  
+✅ **Modular object-oriented implementation**  
 
 ---
 
