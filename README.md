@@ -10,7 +10,7 @@ Gradient Descent – Optimizes the slope iteratively to minimize the Mean Square
 
 The project includes data visualization, loss tracking, and a comparison between the two methods.
 
-##Features
+## Features
 
 Generates synthetic linear data with noise.
 
@@ -18,7 +18,7 @@ Implements a brute-force search for the best slope.
 
 Uses gradient descent for efficient slope optimization.
 
-##Visualizes:
+## Visualizes:
 
 The generated dataset
 
@@ -30,13 +30,13 @@ Best-fit line comparisons
 
 Modular object-oriented implementation.
 
-##Installation
+## Installation
 
 Ensure you have Python installed. Then, install the required dependencies:
 
 pip install numpy matplotlib
 
-##Usage
+## Usage
 
 Run the script using:
 
@@ -52,13 +52,13 @@ Perform gradient descent to optimize the slope.
 
 Visualize the results.
 
-##Performance Comparison
+## Performance Comparison
 
 Brute-Force Search: Exhaustively tests multiple slope values. It is accurate but slow for large datasets.
 
 Gradient Descent: Uses optimization techniques to converge to the best slope efficiently, making it much faster.
 
-##Expected Outputs
+## Expected Outputs
 
 Scatter Plot of Data: Shows the generated data points with noise.
 
