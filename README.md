@@ -1,6 +1,6 @@
-# Linear Regression with Gradient Descent and Brute Force Search
+<h1>Linear Regression with Gradient Descent and Brute Force Search</h1> 
 
-Overview
+# Overview
 
 This project estimates the best-fit slope for a dataset using two approaches:
 
