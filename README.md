@@ -40,7 +40,7 @@ pip install numpy matplotlib
 
 Run the script using:
 
-python linear_regression.py
+```python linear_regression.py
 
 ### This will execute the following steps:
 
