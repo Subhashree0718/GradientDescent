@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project estimates the best-fit slope for a dataset using two approaches:
+### This project estimates the best-fit slope for a dataset using two approaches:
 
 Brute-Force Search – Iterates over a range of slope values to find the one that minimizes the absolute error.
 
@@ -42,7 +42,7 @@ Run the script using:
 
 python linear_regression.py
 
-This will execute the following steps:
+### This will execute the following steps:
 
 Generate synthetic data.
 
